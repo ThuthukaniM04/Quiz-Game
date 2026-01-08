@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-570be5a2a4eef6d5f482.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Group_Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Group_Project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Group_Project-Release-4c01bb9b133778535549.json",
+					"name" : "Group_Project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Group_Project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Group_Project_autogen-Release-e187ffbb2a80793260d8.json",
+					"name" : "Group_Project_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Group_Project_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Group_Project_autogen_timestamp_deps-Release-43c9bc441c04f3f3edf8.json",
+					"name" : "Group_Project_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/student/Documents/Group_Project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

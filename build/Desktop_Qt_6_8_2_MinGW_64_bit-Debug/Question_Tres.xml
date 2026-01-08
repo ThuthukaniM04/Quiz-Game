@@ -1,0 +1,172 @@
+<space_quiz>
+  <question>
+    <text>Space Shuttle Re-entry: The Space Shuttle's thermal protection system was designed to withstand temperatures of up to how many degrees Celsius during re-entry?</text>
+    <option>1,500°C</option>
+    <option correct="true">3,000°C</option>
+    <option>5,000°C</option>
+  </question>
+  <question>
+    <text>Space Debris Impact: What is the main threat posed by space debris to spacecraft during re-entry?</text>
+    <option correct="true">Impact damage from micrometeoroids</option>
+    <option>The gravitational pull of debris</option>
+    <option>Collision with large objects in orbit</option>
+  </question>
+  <question>
+    <text>Lunar Landing: Which NASA mission successfully landed the first humans on the Moon?</text>
+    <option>Apollo 10</option>
+    <option correct="true">Apollo 11</option>
+    <option>Apollo 15</option>
+  </question>
+  <question>
+    <text>Landing Gear: The Lunar Module used by NASA during the Apollo missions had landing pads equipped with which material for shock absorption?</text>
+    <option>Steel coils</option>
+    <option>Foam cushions</option>
+    <option correct="true">Aluminum honeycomb</option>
+  </question>
+  <question>
+    <text>Orbital Insertion: What is the term for the process of a spacecraft entering into a stable orbit around a planet or moon?</text>
+    <option correct="true">Orbital insertion</option>
+    <option>Orbital decay</option>
+    <option>Gravity slingshot</option>
+  </question>
+  <question>
+    <text>Astronaut Survival Gear: What device do astronauts use to regulate their oxygen levels while on spacewalks?</text>
+    <option correct="true">Spacesuit oxygen tank</option>
+    <option>Portable air scrubber</option>
+    <option>Oxygen masks</option>
+  </question>
+  <question>
+    <text>Re-entry Speed: At what speed does the Space Shuttle re-enter Earth's atmosphere?</text>
+    <option>1,000 km/h</option>
+    <option>8,000 km/h</option>
+    <option correct="true">28,000 km/h</option>
+  </question>
+  <question>
+    <text>Spacecraft Landing Sites: Which site was used for the landing of the Apollo missions upon return to Earth?</text>
+    <option>Kennedy Space Center</option>
+    <option>Cape Canaveral</option>
+    <option correct="true">Pacific Ocean</option>
+  </question>
+  <question>
+    <text>Space Navigation: Which device is used on spacecraft to measure the angle between the spacecraft and celestial objects for navigation?</text>
+    <option>Gyroscope</option>
+    <option correct="true">Star tracker</option>
+    <option>Altimeter</option>
+  </question>
+  <question>
+    <text>Landing with Parachutes: Which NASA mission was the first to successfully use parachutes for landing on Mars?</text>
+    <option correct="true">Curiosity</option>
+    <option>Opportunity</option>
+    <option>Perseverance</option>
+  </question>
+  <question>
+    <text>Spacecraft Re-entry Heat: What is the primary cause of the intense heat experienced by a spacecraft during re-entry?</text>
+    <option correct="true">Friction with atmospheric particles</option>
+    <option>Sunlight absorption</option>
+    <option>Combustion of fuel</option>
+  </question>
+  <question>
+    <text>Space-Based Telescopes: Which space telescope is famous for its ability to observe distant exoplanets and galaxies in infrared?</text>
+    <option>Hubble Space Telescope</option>
+    <option>Kepler Space Telescope</option>
+    <option correct="true">James Webb Space Telescope</option>
+  </question>
+  <question>
+    <text>Atmospheric Layers: In which atmospheric layer do spacecraft experience the most friction and heat during re-entry?</text>
+    <option>Exosphere</option>
+    <option>Stratosphere</option>
+    <option correct="true">Mesosphere</option>
+  </question>
+  <question>
+    <text>Manned Spacecraft Re-entry: Which Russian spacecraft was the first to safely return humans from space?</text>
+    <option>Soyuz 10</option>
+    <option correct="true">Vostok 1</option>
+    <option>Soyuz 11</option>
+  </question>
+  <question>
+    <text>Rocket Launching: What is the term for the launch phase of a spacecraft when it is pushed into orbit using rocket boosters?</text>
+    <option>Launch sequence</option>
+    <option>Thrust phase</option>
+    <option correct="true">Boost phase</option>
+  </question>
+  <question>
+    <text>Spacecraft Maneuvering: What type of thrusters do spacecraft use to make small adjustments to their trajectory in space?</text>
+    <option>Ion thrusters</option>
+    <option correct="true">Reaction control system thrusters</option>
+    <option>Chemical thrusters</option>
+  </question>
+  <question>
+    <text>Landing on Mars: What type of atmospheric condition on Mars makes landing a spacecraft challenging?</text>
+    <option>Thick clouds</option>
+    <option correct="true">Thin atmosphere and dust storms</option>
+    <option>Low gravity</option>
+  </question>
+  <question>
+    <text>Spacecraft Safety: What is the primary danger of an uncontrolled re-entry into Earth’s atmosphere?</text>
+    <option>Rapid cooling</option>
+    <option>Air pressure difference</option>
+    <option correct="true">Excessive heat buildup</option>
+  </question>
+  <question>
+    <text>Spacecraft Communication: How do astronauts communicate with mission control during deep-space missions?</text>
+    <option correct="true">Satellite communication</option>
+    <option>Direct radio signals</option>
+    <option>Optical signals</option>
+  </question>
+  <question>
+    <text>End of Mission: What is the first step after safely landing a spacecraft?</text>
+    <option>Opening the hatch</option>
+    <option correct="true">Securely shutting down systems</option>
+    <option>Testing engines</option>
+  </question>
+  <question>
+    <text>Aerobraking is the technique used to slow down a spacecraft during re-entry into Earth's atmosphere.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Escape velocity is the speed required for an object to break free from Earth's gravitational pull.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>The thermosphere is the layer of Earth's atmosphere responsible for most of the heat during atmospheric entry.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>The Space Shuttle's heat shields were primarily made of ceramic tiles.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>A gravity assist maneuver uses a planet's gravitational pull to increase a spacecraft's speed.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>The Apollo missions used parachutes to land safely on the Moon.</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>A spacecraft in orbit around Earth is in a continuous free fall towards Earth, but its high velocity prevents it from crashing.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Astronauts experience weightlessness due to the lack of gravity in space.</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>Mars' thin atmosphere makes it impossible to use parachutes for landing.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>The International Space Station orbits Earth at a height of approximately 400 kilometers.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+</space_quiz>

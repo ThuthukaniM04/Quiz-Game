@@ -1,0 +1,170 @@
+<space_quiz>
+  <question>
+    <text>Scenario: "The oxygen system in the spaceship has malfunctioned, and oxygen levels are dangerously low. You need to fix it quickly by answering this question." Question: "What is the primary component of the air we breathe?"</text>
+    <option correct="true">A) Oxygen</option>
+    <option>B) Nitrogen</option>
+    <option>C) Carbon Dioxide</option>
+  </question>
+  <question>
+    <text>Scenario: "The Earth’s atmosphere is mostly made up of nitrogen. Fix the oxygen system by verifying if this statement is true or false."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The life support system's oxygen filters are clogged. To restore proper oxygen flow, you need to determine if this statement is true or false." Question: "The life support system on a spaceship must maintain a stable oxygen level for the crew."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The thermal control system is broken, and the spaceship is becoming unbearably cold. To restore heat, you must first answer this question." Question: "What is the freezing point of water in Celsius?"</text>
+    <option correct="true">A) 0°C</option>
+    <option>B) 32°C</option>
+    <option>C) -1°C</option>
+  </question>
+  <question>
+    <text>Scenario: "The thermal control system is malfunctioning, and the crew is at risk of freezing. Fixing this system requires verifying this statement." Question: "Extreme cold temperatures on Mars can damage electronics."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The thermal control system is malfunctioning, and the crew needs the temperature stabilized. Confirm this statement to proceed with repairs." Question: "Thermal control is important in space because temperatures can vary drastically."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The spaceship’s power supply has failed, and all systems are offline. To get power back online, you need to answer this question." Question: "What is the most common source of energy used on spacecraft?"</text>
+    <option correct="true">A) Solar power</option>
+    <option>B) Wind power</option>
+    <option>C) Geothermal energy</option>
+  </question>
+  <question>
+    <text>Scenario: "The power system has failed, leaving the crew without life support and essential systems. You must confirm this information to restore power." Question: "Solar panels are used to power many spacecraft."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The power system is down. You need to verify the following statement to fix the power failure." Question: "Power failures can cause systems to shut down, endangering the crew."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The AI control system is malfunctioning, and you need to fix it to navigate the spaceship. Answer the following question to help restore the system." Question: "What does AI stand for in the context of space technology?"</text>
+    <option>Automated Integration</option>
+    <option correct="true">B) Artificial Intelligence</option>
+    <option>Accelerated Innovation</option>
+  </question>
+  <question>
+    <text>Scenario: "The AI system is crucial for monitoring spacecraft health. Verify if this statement is true to proceed with repairs." Question: "AI can help spacecraft make decisions during long missions."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The AI system is responsible for robotic arms and spacecraft maintenance. Confirm this to restore its functionality." Question: "AI is commonly used in robotic arms and spacecraft maintenance."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The communication system is down, and the crew cannot send or receive messages. To restore communication, answer this question." Question: "What is the primary frequency range used for space communications?"</text>
+    <option correct="true">A) High-frequency radio waves</option>
+    <option>B) Low-frequency radio waves</option>
+    <option>C) Microwaves</option>
+  </question>
+  <question>
+    <text>Scenario: "The spaceship's navigation system has failed, and the crew is off course. To fix the system, answer this question." Question: "Which technology is primarily used for precise navigation in space?"</text>
+    <option correct="true">B) Inertial navigation systems</option>
+    <option>A) GPS</option>
+    <option>C) Barometric pressure sensors</option>
+  </question>
+  <question>
+    <text>Scenario: "The oxygen levels are fluctuating, and the life support system must be fixed. To repair it, answer this question." Question: "Which gas must be removed from the air in the life support system to maintain proper oxygen levels?"</text>
+    <option correct="true">B) Carbon dioxide</option>
+    <option>A) Nitrogen</option>
+    <option>C) Helium</option>
+  </question>
+  <question>
+    <text>Scenario: "The temperature control system is malfunctioning, and the spaceship is getting too hot. To restore cooling, answer this question." Question: "What is the primary method used for cooling spacecraft?"</text>
+    <option correct="true">A) Liquid cooling loops</option>
+    <option>B) Fans</option>
+    <option>C) Solar reflectors</option>
+  </question>
+  <question>
+    <text>Scenario: "The spacecraft's power system is failing, and the backup batteries need to be checked. Verify the following statement." Question: "Spacecraft can rely on fuel cells for long-term power storage."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The spaceship has lost its position in space due to a malfunction in the navigation system. Confirm this statement to help restore navigation." Question: "Spacecraft navigation systems rely solely on visual cues from nearby planets and stars."</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>Scenario: "The communication system has malfunctioned, and the crew cannot communicate with Earth. Check this statement to verify the cause of the problem." Question: "Communication systems on spacecraft use laser beams for secure data transmission."</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Scenario: "The spaceship's AI system is not responding, and you need to restore it. Verify the following statement to proceed." Question: "AI control systems on spacecraft are designed to make decisions without any input from human crew members."</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>Scenario: "The thruster fuel line is leaking, causing propulsion instability. To fix it, you need to answer this question." Question: "Which chemical is commonly used as fuel in spacecraft thrusters?"</text>
+    <option>A) Water</option>
+    <option correct="true">B) Hydrazine</option>
+    <option>C) Nitrogen</option>
+  </question>
+  <question>
+    <text>Scenario: "The artificial gravity system has failed, causing crew disorientation. To repair it, answer this question." Question: "What component is critical for generating artificial gravity on a rotating spacecraft?"</text>
+    <option>A) Gyroscope</option>
+    <option correct="true">B) Centrifuge</option>
+    <option>C) Magnet</option>
+  </question>
+  <question>
+    <text>Scenario: "The communication array is misaligned, blocking signals to Earth. To fix it, you must answer this question." Question: "Which tool is used to align a spacecraft's communication array?"</text>
+    <option>A) Wrench</option>
+    <option>B) Laser level</option>
+    <option correct="true">C) Star tracker</option>
+  </question>
+  <question>
+    <text>Scenario: "The navigation system has crashed, leaving the crew stranded. To reboot it, answer this question." Question: "Which system provides backup navigation using pulsars?"</text>
+    <option correct="true">A) XNAV (X-ray Navigation)</option>
+    <option>B) GPS</option>
+    <option>C) RADAR</option>
+  </question>
+  <question>
+    <text>Scenario: "A solar panel has detached, reducing power generation. To replace it, answer this question." Question: "What is the primary material used in spacecraft solar panels?"</text>
+    <option>A) Aluminum</option>
+    <option correct="true">B) Gallium arsenide</option>
+    <option>C) Silicon</option>
+  </question>
+  <question>
+    <text>Scenario: "The oxygen generator is producing toxic gas. To stabilize it, answer this question." Question: "Which process do spacecraft use to generate breathable oxygen?"</text>
+    <option>A) Combustion</option>
+    <option correct="true">B) Electrolysis</option>
+    <option>C) Photosynthesis</option>
+  </question>
+  <question>
+    <text>Scenario: "The AI core is unresponsive, causing system-wide failures. To reboot it, answer this question." Question: "What is the first step in troubleshooting an unresponsive AI system?"</text>
+    <option correct="true">A) Hard reset</option>
+    <option>B) Software update</option>
+    <option>C) Replace hardware</option>
+  </question>
+  <question>
+    <text>Scenario: "A micrometeoroid has breached the hull, causing air leakage. To seal it, answer this question." Question: "What material is used to temporarily seal hull breaches?"</text>
+    <option>A) Duct tape</option>
+    <option correct="true">B) Epoxy resin</option>
+    <option>C) Aluminum foil</option>
+  </question>
+  <question>
+    <text>Scenario: "The heat shield is misaligned, risking burnup during re-entry. To calibrate it, answer this question." Question: "What is the outermost layer of a heat shield made of?"</text>
+    <option>A) Ceramic tiles</option>
+    <option>B) Aluminum alloy</option>
+    <option correct="true">C) Ablative material</option>
+  </question>
+  <question>
+    <text>Scenario: "The water filtration system is clogged, risking dehydration. To fix it, answer this question." Question: "Which method is used to purify water on spacecraft?"</text>
+    <option>A) Boiling</option>
+    <option correct="true">B) Reverse osmosis</option>
+    <option>C) Chlorination</option>
+  </question>
+</space_quiz>

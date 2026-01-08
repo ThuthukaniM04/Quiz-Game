@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/zombie.jpg</file>
+        <file>img/zombie2.jpg</file>
+        <file>img/z3.jpg</file>
+        <file>img/z4.jpg</file>
+        <file>img/z5.jpg</file>
+        <file>img/z6.jpg</file>
+        <file>img/z7.jpg</file>
+        <file>img/z8.jpg</file>
+        <file>img/z9.jpg</file>
+        <file>img/z10.jpg</file>
+        <file>img/z11.jpg</file>
+        <file>img/z12.jpg</file>
+        <file>img/z13.jpg</file>
+        <file>img/z14.jpg</file>
+        <file>img/z15.jpg</file>
+        <file>img/z16.jpg</file>
+        <file>img/a1.jpg</file>
+        <file>img/a2.jpg</file>
+        <file>img/a3.jpg</file>
+        <file>img/a4.jpg</file>
+        <file>img/a5.jpg</file>
+        <file>img/a6.jpg</file>
+        <file>img/a7.jpg</file>
+        <file>img/a8.jpg</file>
+        <file>img/a9.jpg</file>
+        <file>img/a10.jpg</file>
+        <file>img/a11.jpg</file>
+        <file>img/m1.jpeg</file>
+    </qresource>
+</RCC>

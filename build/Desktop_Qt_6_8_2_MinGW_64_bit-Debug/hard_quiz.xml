@@ -1,0 +1,241 @@
+<zombie_quiz>
+
+            <question>
+                <text>All relics glow before they activate.</text>
+                <option correct ="true">False</option>
+		<option>True</option>
+            </question>
+
+            <question>
+                <text>The undead can sometimes communicate through sound.</text>
+                <option correct="true">True</option>
+		<option>False</option>
+            </question>
+
+            <question>
+                <text>Choosing the same weapon repeatedly can reduce its effectiveness.</text>
+                <option correct="true">True</option>
+		<option>False</option>
+            </question>
+
+            <question>
+                <text>The desert is home to both natural and supernatural dangers.</text>
+                <option correct ="true">True</option>
+		<option>False</option>
+            </question>
+
+            <question>
+                <text>Fire-based weapons work best in sandstorms.</text>
+                <option correct= "true">False</option>
+		<option>True</option>
+            </question>
+
+            <question>
+                <text>The undead are completely blind during the daytime.</text>
+                <option correct="true">False</option>
+		<option>True</option>
+            </question>
+
+            <question>
+                <text>Some zombies react differently based on the weapon Alex uses.</text>
+                <option correct="true">True</option>
+		<option>False</option>
+            </question>
+
+            <question>
+                <text>Alex can trade relics with friendly survivors he finds.</text>
+                <option correct ="true">False</option>
+		<option>True</option>
+            </question>
+
+            <question>
+                <text>The undead grow stronger if not defeated quickly.</text>
+                <option correct="true">True</option>
+		<option>False</option>
+            </question>
+
+            <question>
+                <text>Some supply caches are booby-trapped.</text>
+                <option correct ="true">True</option>
+		<option>False</option>
+            </question>
+
+            <question>
+                <text>What should Alex do when faced with a zombie immune to fire?</text>
+                    <option>A. Use melee attacks</option>
+		    <option correct="true">B. Try light-based weapons</option>
+                    <option>C. Use water-based traps</option>
+                    <option>D. Hide and wait it out</option> 
+            </question>
+
+            <question>
+                <text>Why is it dangerous to stay near ruins after midnight?</text>
+                    <option>A. The temperature drops drastically</option>
+                    <option correct="true">B. The undead become more aggressive</option>
+                    <option>C. Supplies vanish</option>
+                    <option>D. Ruins collapse suddenly</option>
+                    
+            </question>
+
+            <question>
+                <text>How can Alex bypass a horde guarding a relic?</text>
+                    <option>A. Use a zombie mask</option>
+                    <option correct="true">B. Cause a distraction far away</option>
+                    <option>C. Crawl slowly through them</option>
+                    <option>D. Attack with a grenade</option>
+                
+            </question>
+
+            <question>
+                <text>What is the consequence of using relics too often?</text>
+                    <option>A. They overheat</option>
+                    <option>B. They attract cursed spirits</option>
+                    <option>C. They decay and become useless</option>
+                    <option correct="true">D. They damage Alex’s health</option>
+                    
+            </question>
+
+            <question>
+                <text>Which is the most dangerous zombie variant in open desert?</text>
+                    <option>A. Burrowers</option>
+                    <option>B. Firewalkers</option>
+                    <option>C. Shriekers</option>
+                    <option correct="true">D. Dune Howlers</option>
+                    
+            </question>
+
+            <question>
+                <text>What can Alex use to reveal hidden traps around ruins?</text>
+                    <option>A. Night-vision goggles</option>
+                    <option>B. Dust trail detectors</option>
+                    <option>C. Thermal scopes</option>
+                    <option correct="true">D. UV light</option>
+                    
+            </question>
+
+            <question>
+                <text>Why do some zombies seem to ignore Alex at times?</text>
+                    <option>A. He is covered in zombie blood</option>
+                    <option>B. They are blind</option>
+                    <option correct="true">C. They are distracted by relic energy</option>
+                    <option>D. They only attack at night</option>
+                    
+            </question>
+
+            <question>
+                <text>How can Alex destroy a cursed relic?</text>
+                    <option>A. Smash it with a hammer</option>
+                    <option>B. Bury it under a full moon</option>
+                    <option correct="true">C. Drop it in an ancient fire pit</option>
+                    <option>D. Wash it in sacred water</option>
+                    
+            </question>
+
+            <question>
+                <text>What makes Shriekers more deadly than other undead?</text>
+                    <option>A. Their sharp claws</option>
+                    <option>B. Their numbers</option>
+                    <option correct="true">C. Their scream draws in other zombies</option>
+                    <option>D. Their invisibility</option>
+                    
+            </question>
+
+            <question>
+                <text>What tactic works best in a close-quarters ruin ambush?</text>
+                    <option>A. Use explosives</option>
+                    <option>B. Run in circles</option>
+                    <option correct="true">C. Stealth and silent weapons</option>
+                    <option>D. Loud gunfire to scare zombies</option>
+                    
+            </question>
+
+            <question>
+                <text>What happens if Alex stays too long near corrupted relics?</text>
+                    <option>A. Time loops begin</option>
+                    <option>B. The undead ignore him</option>
+                    <option correct="true">C. He starts hallucinating</option>
+                    <option>D. He gains power</option>
+                    
+            </question>
+
+            <question>
+		<text>In Alex Surviving the Undead, what is a key risk of starting a fire while exploring the desert?</text>
+                    <option>A. Fire attracts ghost zombies</option>
+                    <option correct="true">B. Scrolls burn easily and may be needed</option>
+                    <option>C. Scrolls explode</option>
+                    <option>D. Fire weakens relics</option>
+                    
+            </question>
+
+            <question>
+                <text>What zombie behavior might suggest a trap nearby?</text>
+                    <option>A. They flee suddenly</option>
+                    <option correct="true">B. They freeze in place</option>
+                    <option>C. They walk in a circle</option>
+                    <option>D. They moan constantly</option>
+                    
+            </question>
+
+            <question>
+                <text>Which relic is rumored to give Alex temporary invisibility?</text>
+                    <option>A. Eye of the Dune</option>
+                    <option>B. Moon Fang</option>
+                    <option correct="true">C. Dustwalker’s Charm</option>
+                    <option>D. Relic of Ash</option>
+                    
+            </question>
+
+            <question>
+                <text>Why is it risky to enter ancient tunnels beneath the sand?</text>
+                    <option>A. They are filled with poison gas</option>
+                    <option>B. They contain ancient guardians</option>
+                    <option>C. They echo, alerting zombies</option>
+                    <option correct="true">D. They collapse frequently</option>
+                    
+            </question>
+
+            <question>
+                <text>Which environmental factor weakens most undead?</text>
+                    <option>A. Rain</option>
+                    <option correct="true">B. Salt</option>
+                    <option>C. Wind</option>
+                    <option>D. Moonlight</option>
+                    
+            </question>
+
+            <question>
+                <text>How does Alex mark safe zones in the desert?</text>
+                    <option correct="true">A. Drops colored flares</option>
+                    <option>B. Uses chalk signs</option>
+                    <option>C. Sets up signal stones</option>
+                    <option>D. Draws in the sand</option>
+                    
+            </question>
+
+            <question>
+                <text>What does Alex need to activate a sealed relic?</text>
+                    <option>A. Blood of the undead</option>
+                    <option correct="true">B. Specific incantation</option>
+                    <option>C. Heat from a flame</option>
+                    <option>D. A second relic</option>
+                    
+            </question>
+
+            <question>
+                <text>What’s the best defense against undead swarms?</text>
+                    <option>A. Build a quick sand trap</option>
+                    <option>B. Use rapid-fire weapons</option>
+                    <option>C. Lead them into a dead zone</option>
+                    <option correct="true">D. Create a barrier with relics</option>
+                    
+            </question>
+
+            <question>
+                <text>What’s the danger of relying only on high-tech gear?</text>
+                    <option correct="true">A. It breaks easily in heat</option>
+                    <option>B. It triggers relics</option>
+                    <option>C. It scares away helpful animals</option>
+                    <option>D. It drains relic power</option>
+                    
+            </question>
+</zombie_quiz>

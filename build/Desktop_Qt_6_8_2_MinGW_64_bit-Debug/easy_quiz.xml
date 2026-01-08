@@ -1,0 +1,221 @@
+<zombie_quiz>
+    <question>
+        <text>Alex’s vehicle broke down in a snowy mountain pass.</text>
+        <option>True</option>
+        <option correct = "true">False</option>
+    </question>
+
+    <question>
+        <text>Zombies only appear after sunset in the desert.</text>
+        <option>False</option>
+        <option correct = "true">True</option>
+    </question>
+
+    <question>
+        <text>Alex can find weapons in abandoned military supply caches.</text>
+        <option correct = "true">True</option>
+        <option>False</option>
+    </question>
+
+    <question>
+        <text>Alex begins his journey with a powerful machine gun.</text>
+        <option>True</option>
+        <option correct ="true">False</option>
+    </question>
+
+    <question>
+        <text>The desert becomes more dangerous at night.</text>
+        <option>False</option>
+        <option correct = "true">True</option>
+    </question>
+
+   <question>
+        <text>The ground trembles when the zombies start to emerge.</text>
+	<option>False</option>
+        <option correct = "true">True</option>
+    </question>
+
+    <question>
+        <text>Ancient relics found in the desert can be used as weapons.</text>
+        <option correct = "true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Zombies in the desert are active during the daytime.</text>
+        <option correct="true">False</option>
+	<option>True</option>
+    </question>
+
+    <question>
+        <text>Alex is traveling with a group of survivors.</text>
+        <option correct="true">False</option>
+	<option>True</option>
+    </question>
+
+    <question>
+        <text>Making the wrong weapon choice can result in Alex’s death.</text>
+        <option correct ="true">True</option>
+	<option>False</option>
+    </question>
+
+   <question>
+        <text>What causes zombies to emerge in the desert?</text>
+        <option>A. A sandstorm</option>
+        <option>B. The full moon</option>
+        <option correct="true">C. Nightfall</option>
+        <option>D. Earthquake</option>
+    </question>
+
+    <question>
+        <text>Where does Alex find supplies to survive?</text>
+        <option>A. Abandoned stores</option>
+        <option correct="true">B. Military supply caches</option>
+        <option>C. Zombie nests</option>
+        <option>D. Desert animals</option>
+    </question>
+
+   <question>
+        <text>What is the main threat to Alex at night?</text>
+        <option>A. Heatstroke</option>
+        <option>B. Ghosts</option>
+        <option correct="true">C. Zombies</option>
+        <option>D. Sandstorms</option>
+    </question>
+
+    <question>
+        <text>Which of these is NOT mentioned as a tool for survival?</text>
+        <option>A. Relics</option>
+        <option correct="true">B. Vehicles</option>
+        <option>C. Makeshift weapons</option>
+        <option>D. Supply caches</option>
+    </question>
+
+    <question>
+        <text>How many survival levels are there in Alex’s journey?</text>
+        <option>A. 2</option>
+        <option correct="true">B. 3</option>
+        <option>C. 4</option>
+        <option>D. 5</option>
+    </question>
+
+    <question>
+        <text>What kind of terrain is the setting of the story?</text>
+        <option>A. Jungle</option>
+        <option>B. Swamp</option>
+        <option correct="true">C. Desert</option>
+        <option>D. Forest</option>
+    </question>
+
+    <question>
+        <text>What happens when Alex chooses the wrong weapon?</text>
+        <option>A. He finds more weapons</option>
+        <option>B. He gains more experience</option>
+        <option correct="true">C. He risks dying</option>
+        <option>D. He travels back in time</option>
+    </question>
+
+    <question>
+        <text>What is Alex doing before the zombies appear?</text>
+        <option>A. Sleeping</option>
+        <option correct="true">B. Repairing his vehicle</option>
+        <option>C. Running from bandits</option>
+        <option>D. Searching for food</option>
+    </question>
+
+   <question>
+        <text>What best describes the desert during the day?</text>
+        <option>A. Noisy and crowded</option>
+        <option>B. Covered in fog</option>
+        <option correct="true">C. Eerily silent and scorching</option>
+        <option>D. Freezing and calm</option>
+    </question>
+
+    <question>
+        <text>Why does Alex need to answer questions correctly?</text>
+        <option>A. To earn coins</option>
+        <option>B. To unlock new characters</option>
+        <option correct="true">C. To determine the best weapon to survive</option>
+        <option>D. To escape the desert</option>
+    </question>
+
+    <question>
+        <text>What time of day is safest for Alex to explore the desert?</text>
+        <option>A. Midnight</option>
+        <option>B. Dawn</option>
+        <option>C. Afternoon</option>
+        <option correct="true">D. Daytime</option>
+    </question>
+
+    <question>
+        <text>Which of these might Alex find to defend himself?</text>
+        <option>A. Flashlight</option>
+        <option>B. Wooden plank</option>
+        <option correct="true">C. Ancient sword</option>
+        <option>D. Radio</option>
+    </question>
+
+    <question>
+        <text>What does the trembling ground usually signal?</text>
+        <option>A. A sandstorm</option>
+        <option correct="true">B. Zombies emerging</option>
+        <option>C. A supply drop</option>
+        <option>D. An oasis nearby</option>
+    </question>
+
+    <question>
+        <text>Which of the following is a type of item Alex does not rely on?</text>
+        <option correct="true">A. Magic potions</option>
+        <option>B. Military weapons</option>
+        <option>C. Ancient relics</option>
+        <option>D. Makeshift tools</option>
+    </question>
+
+    <question>
+        <text>How does Alex make progress in his journey?</text>
+        <option>A. By digging underground tunnels</option>
+        <option correct="true">B. By answering survival questions</option>
+        <option>C. By building a shelter</option>
+        <option>D. By taming desert animals</option>
+    </question>
+
+    <question>
+        <text>What motivates Alex to keep moving forward?</text>
+        <option>A. The search for treasure</option>
+        <option correct="true">B. Escaping the undead</option>
+        <option>C. Finding ancient secrets</option>
+        <option>D. Discovering hidden cities</option>
+    </question>
+
+    <question>
+        <text>What is one risk of using a poorly chosen weapon?</text>
+        <option>A. It might alert friendly survivors</option>
+        <option>B. It might break the desert laws</option>
+        <option correct="true">C. It may not stop the zombie threat</option>
+        <option>D. It will cause a time loop</option>
+    </question>
+
+    <question>
+        <text>What kind of area is the desert described as?</text>
+        <option>A. Lush and green</option>
+        <option>B. Cold and foggy</option>
+        <option correct="true">C. Hot and silent</option>
+        <option>D. Urban and crowded</option>
+    </question>
+
+    <question>
+        <text>Why is nightfall dangerous in the desert?</text>
+        <option>A. Visibility becomes poor</option>
+        <option>B. Supplies disappear</option>
+        <option correct="true">C. Zombies come to life</option>
+        <option>D. The cold becomes unbearable</option>
+    </question>
+
+    <question>
+        <text>What is Alex’s main goal in the storyline?</text>
+        <option>A. To defeat a zombie king</option>
+        <option correct="true">B. To survive the undead and escape</option>
+        <option>C. To become ruler of the desert</option>
+        <option>D. To find a hidden treasure</option>
+    </question>
+</zombie_quiz>

@@ -1,0 +1,176 @@
+<space_quiz>
+  <!-- Multiple-Choice Questions (20 total) -->
+  <question>
+    <text>Space Debris: What is the term for man-made objects left in space that are no longer functional?</text>
+    <option correct="true">Space junk</option>
+    <option>Star matter</option>
+    <option>Lunar debris</option>
+  </question>
+  <question>
+    <text>Asteroids and Meteors: Which is the main difference between an asteroid and a meteor?</text>
+    <option>Asteroids are smaller than meteors.</option>
+    <option correct="true">A meteor is a piece of rock that enters the Earth's atmosphere.</option>
+    <option>Asteroids are only found in our solar system.</option>
+  </question>
+  <question>
+    <text>Gravity and Trajectories: In space, which force primarily governs the motion of planets and asteroids?</text>
+    <option>Electromagnetic force</option>
+    <option correct="true">Gravitational force</option>
+    <option>Magnetic force</option>
+  </question>
+  <question>
+    <text>Space Navigation Technology: Which technology is primarily used to determine a spacecraft’s position relative to stars?</text>
+    <option correct="true">Star trackers</option>
+    <option>Radio waves</option>
+    <option>Laser reflectors</option>
+  </question>
+  <question>
+    <text>Meteor Showers: Meteor showers occur when Earth passes through the debris left by which type of object?</text>
+    <option correct="true">Comet</option>
+    <option>Asteroid</option>
+    <option>Planetary ring</option>
+  </question>
+  <question>
+    <text>Spacecraft Propulsion: What type of propulsion system uses ions to accelerate a spacecraft?</text>
+    <option>Solar sails</option>
+    <option correct="true">Ion thrusters</option>
+    <option>Chemical rockets</option>
+  </question>
+  <question>
+    <text>Space Observations: Which telescope is used to observe distant galaxies and objects in space?</text>
+    <option correct="true">Hubble Space Telescope</option>
+    <option>James Webb Space Telescope</option>
+    <option>Kepler Space Telescope</option>
+  </question>
+  <question>
+    <text>Distance in Space: How far is the closest star to Earth, besides the Sun?</text>
+    <option correct="true">4.24 light years</option>
+    <option>12.5 light years</option>
+    <option>50 light years</option>
+  </question>
+  <question>
+    <text>Asteroid Composition: Asteroids are mostly composed of which material?</text>
+    <option correct="true">Rock and metal</option>
+    <option>Ice and gas</option>
+    <option>Dust and sand</option>
+  </question>
+  <question>
+    <text>Mars' Moons: How many moons does Mars have?</text>
+    <option>1</option>
+    <option correct="true">2</option>
+    <option>3</option>
+  </question>
+  <question>
+    <text>Moon Phases: What is the phase of the Moon when the entire illuminated side is facing Earth?</text>
+    <option>New Moon</option>
+    <option correct="true">Full Moon</option>
+    <option>Waxing Crescent</option>
+  </question>
+  <question>
+    <text>Solar System Order: What is the fourth planet from the Sun?</text>
+    <option correct="true">Mars</option>
+    <option>Earth</option>
+    <option>Venus</option>
+  </question>
+  <question>
+    <text>Interstellar Travel: What speed does the Voyager 1 spacecraft travel at relative to the Sun?</text>
+    <option>17,000 km/h</option>
+    <option correct="true">45,000 km/h</option>
+    <option>60,000 km/h</option>
+  </question>
+  <question>
+    <text>Astronomical Units: What does one astronomical unit (AU) represent?</text>
+    <option>The distance from Earth to Mars</option>
+    <option correct="true">The distance from Earth to the Sun</option>
+    <option>The distance from Earth to the Moon</option>
+  </question>
+  <question>
+    <text>Comet Composition: Comets are primarily made up of which substances?</text>
+    <option>Rock and gas</option>
+    <option correct="true">Ice, dust, and rocky material</option>
+    <option>Gas and metal</option>
+  </question>
+  <question>
+    <text>Black Holes: Which astronomical phenomenon is formed when a massive star collapses in on itself?</text>
+    <option>A neutron star</option>
+    <option correct="true">A black hole</option>
+    <option>A white dwarf</option>
+  </question>
+  <question>
+    <text>Space-Time: According to Einstein’s theory of general relativity, what does gravity cause?</text>
+    <option correct="true">The bending of space-time</option>
+    <option>The acceleration of light</option>
+    <option>The creation of dark matter</option>
+  </question>
+  <question>
+    <text>Satellites: What is the main purpose of the International Space Station (ISS)?</text>
+    <option>To study space weather</option>
+    <option>To provide a base for astronauts on Mars</option>
+    <option correct="true">To conduct scientific research in microgravity</option>
+  </question>
+  <question>
+    <text>Pluto's Status: In 2006, the International Astronomical Union reclassified Pluto. What did it become?</text>
+    <option>A planet</option>
+    <option correct="true">A dwarf planet</option>
+    <option>A moon</option>
+  </question>
+  <question>
+    <text>Asteroid Mining: Which mineral is most commonly found in asteroids and could be used in future mining efforts?</text>
+    <option>Gold</option>
+    <option correct="true">Platinum</option>
+    <option>Iron</option>
+  </question>
+
+  <!-- Converted True/False Questions (10 total) -->
+  <question>
+    <text>Ceres is the largest asteroid in our solar system.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Earth orbits the Sun at approximately 30,000 km/h.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>Pioneer 10 was the first spacecraft to travel through the asteroid belt.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>The asteroid belt is located between Mars and Jupiter.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>A large asteroid impact caused the mass extinction of the dinosaurs.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <!-- Original True/False Questions -->
+  <question>
+    <text>Most asteroids are composed primarily of hydrogen and helium.</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>The asteroid belt is the primary source of meteor showers that hit Earth.</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>Asteroids have a significant impact on the Earth’s atmosphere when they collide.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+  <question>
+    <text>All asteroids are located in the asteroid belt between Mars and Jupiter.</text>
+    <option>True</option>
+    <option correct="true">False</option>
+  </question>
+  <question>
+    <text>An asteroid's orbit is primarily influenced by the gravitational pull of the Sun.</text>
+    <option correct="true">True</option>
+    <option>False</option>
+  </question>
+</space_quiz>

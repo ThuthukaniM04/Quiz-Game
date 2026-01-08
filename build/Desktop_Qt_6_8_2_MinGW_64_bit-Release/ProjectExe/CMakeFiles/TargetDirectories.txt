@@ -1,0 +1,9 @@
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/Group_Project.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/edit_cache.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/rebuild_cache.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/list_install_components.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/install.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/install/local.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/install/strip.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/Group_Project_autogen_timestamp_deps.dir
+C:/Users/student/Documents/Group_Project/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/ProjectExe/CMakeFiles/Group_Project_autogen.dir

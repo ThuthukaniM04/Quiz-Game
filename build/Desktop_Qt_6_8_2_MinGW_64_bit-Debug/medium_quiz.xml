@@ -1,0 +1,222 @@
+<zombie_quiz>
+    
+    <question>
+        <text>Using loud weapons like shotguns can attract more zombies.</text>
+        <option correct="true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Not all zombies in the desert are slow-moving.</text>
+        <option correct ="true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Alex can carry unlimited weapons without slowing down.</text>
+        <option correct="true">False</option>
+	<option>True</option>
+    </question>
+
+    <question>
+        <text>Some relics found in the desert have hidden effects.</text>
+        <option correct ="true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Supply caches are always visible and unguarded.</text>
+        <option correct ="true">False</option>
+	<option>True</option>
+    </question>
+
+    <question>
+        <text>Traveling during twilight is safer than during full night.</text>
+        <option correct ="true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Zombies can be repelled by bright light sources.</text>
+        <option correct ="true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Ancient ruins in the desert can trigger zombie ambushes.</text>
+        <option correct="true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Alex can find maps inside some supply caches.</text>
+        <option correct = "true">True</option>
+	<option>False</option>
+    </question>
+
+    <question>
+        <text>Wearing heavy armor always makes Alex safer.</text>
+        <option correct = "true">False</option>
+	<option>True</option>
+    </question>
+
+    <question>
+        <text>Which weapon is most effective against fast-moving zombies?</text>
+        <option>A. Heavy hammer</option>
+        <option>B. Pistol</option>
+        <option>C. Crossbow</option>
+        <option correct="true">D. Shotgun</option>
+    </question>
+
+    <question>
+        <text>What happens if Alex uses a relic without identifying it first?</text>
+        <option>A. It glows and disappears</option>
+        <option correct="true">B. It might help or harm him</option>
+        <option>C. It creates a storm</option>
+        <option>D. Nothing happens</option>
+    </question>
+
+    <question>
+        <text>What should Alex do if he hears growling beneath the sand?</text>
+        <option>A. Run toward the sound</option>
+        <option>B. Stay still</option>
+        <option correct="true">C. Throw a light source ahead</option>
+        <option>D. Dig in that direction</option>
+    </question>
+
+    <question>
+        <text>What is a key weakness of armored zombies?</text>
+        <option correct="true">A. Fire-based weapons</option>
+        <option>B. Arrows</option>
+        <option>C. Melee attacks</option>
+        <option>D. Loud noises</option>
+    </question>
+
+    <question>
+        <text>Which of the following is considered a risk when using explosives?</text>
+        <option>A. Running out of ammo</option>
+        <option correct="true">B. Attracting more zombies</option>
+        <option>C. Gaining extra points</option>
+        <option>D. Healing zombies by accident</option>
+    </question>
+
+    <question>
+        <text>What’s the best time to raid a known supply cache?</text>
+        <option>A. High noon</option>
+        <option correct="true">B. Early morning</option>
+        <option>C. Just after sunset</option>
+        <option>D. Midnight</option>
+    </question>
+
+    <question>
+        <text>What does Alex risk by traveling during sandstorms?</text>
+        <option correct="true">A. Losing vision and direction</option>
+        <option>B. Freezing to death</option>
+        <option>C. Getting more weapons</option>
+        <option>D. Finding rare zombies</option>
+    </question>
+
+    <question>
+        <text>How can Alex temporarily block zombies from following him?</text>
+        <option>A. Drop food</option>
+        <option correct="true">B. Use decoy flares</option>
+        <option>C. Blow his whistle</option>
+        <option>D. Walk backward slowly</option>
+    </question>
+
+    <question>
+        <text>Why should Alex avoid caves during nighttime?</text>
+        <option>A. They collapse</option>
+        <option>B. They contain gas</option>
+        <option correct="true">C. Zombies often hide there</option>
+        <option>D. There is no loot</option>
+    </question>
+
+    <question>
+        <text>What is one benefit of ancient relics over conventional weapons?</text>
+        <option>A. They glow in the dark</option>
+        <option correct="true">B. They are silent and reusable</option>
+        <option>C. They never break</option>
+        <option>D. They are zombie repellents</option>
+    </question>
+
+    <question>
+        <text>What is the purpose of desert signal towers?</text>
+        <option correct="true">A. Call for extraction</option>
+        <option>B. Light up the desert</option>
+        <option>C. Alert nearby zombies</option>
+        <option>D. Reboot ancient relics</option>
+    </question>
+
+    <question>
+        <text>Which zombie type is attracted to vibrations?</text>
+        <option>A. Crawlers</option>
+        <option correct="true">B. Burrowers</option>
+        <option>C. Firewalkers</option>
+        <option>D. Shriekers</option>
+    </question>
+
+    <question>
+        <text>How can Alex improve his survival odds during ambushes?</text>
+        <option>A. Carry fewer items</option>
+        <option correct="true">B. Learn zombie patterns</option>
+        <option>C. Use only melee weapons</option>
+        <option>D. Hide in open areas</option>
+    </question>
+
+    <question>
+        <text>What can Alex do to make relics safer to use?</text>
+        <option>A. Clean them with water</option>
+        <option>B. Offer them to the undead</option>
+        <option correct="true">C. Study them at ruins</option>
+        <option>D. Break them apart</option>
+    </question>
+
+    <question>
+        <text>Which item is essential when traveling at night?</text>
+        <option>A. Binoculars</option>
+        <option correct="true">B. Torch or flashlight</option>
+        <option>C. Rope</option>
+        <option>D. Sunglasses</option>
+    </question>
+
+    <question>
+        <text>What increases the chance of zombies detecting Alex?</text>
+        <option>A. Quiet footsteps</option>
+        <option>B. Moving slowly</option>
+        <option correct="true">C. Sudden noise or light</option>
+        <option>D. Hiding behind rocks</option>
+    </question>
+
+    <question>
+        <text>How do sand pits in the desert threaten Alex?</text>
+        <option>A. They hide aggressive wildlife</option>
+        <option>B. They create illusions</option>
+        <option correct="true">C. They slow down movement</option>
+        <option>D. They contain venomous zombies</option>
+    </question>
+
+    <question>
+        <text>Why are some zombies immune to traditional weapons?</text>
+        <option>A. They are illusions</option>
+        <option>B. They wear enchanted armor</option>
+        <option>C. They are cursed</option>
+        <option correct="true">D. They have mutated skin</option>
+    </question>
+
+    <question>
+        <text>What is a likely reward from exploring ancient ruins?</text>
+        <option>A. Vehicle parts</option>
+        <option correct="true">B. Enchanted relics</option>
+        <option>C. Zombie pets</option>
+        <option>D. Flash grenades</option>
+    </question>
+
+    <question>
+        <text>How does Alex know if a relic is cursed?</text>
+        <option>A. It hums when touched</option>
+        <option>B. It draws in shadows</option>
+        <option>C. It changes color</option>
+        <option correct="true">D. It causes visions</option>
+    </question>
+</zombie_quiz>
